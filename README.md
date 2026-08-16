@@ -77,7 +77,7 @@ For machine learning implementation, the target is encoded numerically (0 = Mali
 The complete source code, trained model files, test data, requirements file, and README are available in the GitHub repository.
 
 **GitHub Repository:**  
-`<YOUR_GITHUB_REPOSITORY_LINK>`
+`https://github.com/2025ac05841-hub/fluffy-octo-fiesta/`
 
 ### Repository Structure
 
@@ -288,7 +288,7 @@ The application allows the user to select a classification model and observe its
 
 **Live Streamlit Application:**
 
-`<YOUR_STREAMLIT_APP_LINK>`
+`https://fn4npappp9ecbwdhl68juaj.streamlit.app/`
 
 The application is deployed using Streamlit Community Cloud.
 
@@ -368,7 +368,7 @@ joblib
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/2025ac05841-hub/fluffy-octo-fiesta/
 ```
 
 ### Step 2: Navigate to the Project Directory
@@ -448,8 +448,8 @@ The project demonstrates the complete workflow from machine learning model devel
 
 ## 18. Author
 
-**Name:** `<YOUR NAME>`  
-**Programme:** M.Tech (AIML/DSE)  
+**Name:** `Sushmit Jha`  
+**Programme:** M.Tech (AIML)  
 **Course:** Machine Learning  
 **Assignment:** Assignment - 2
 
@@ -459,6 +459,6 @@ The project demonstrates the complete workflow from machine learning model devel
 
 | Resource | Link |
 |---|---|
-| GitHub Repository | `<YOUR_GITHUB_REPOSITORY_LINK>` |
-| Live Streamlit Application | `<YOUR_STREAMLIT_APP_LINK>` |
+| GitHub Repository | `https://github.com/2025ac05841-hub/fluffy-octo-fiesta/` |
+| Live Streamlit Application | `https://fn4npappp9ecbwdhl68juaj.streamlit.app/` |
 | Dataset Source | https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic |
